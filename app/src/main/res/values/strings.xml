@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AnchorBooks</string>
+    <string name="creator">Made by Browfire</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Volver</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="imageDescription">imageDescription</string>
+    <string name="imageList">imageList</string>
+
+    <string name="textTitle">Título</string>
+    <string name="textAuthor">Autor</string>
+    <string name="textCountry">País</string>
+    <string name="textLanguage">Idioma</string>
+    <string name="mail">mail</string>
+
+    <string name="textListTitle">Título Lista</string>
+    <string name="textListAuthor">Autor Lista</string>
+
+    <string name="email_address">ventas@anchorbook.cl</string>
+    <string name="email_subject">Consulta por libro</string>
+    <string name="email_text1">Hola\nVi el libro</string>
+    <string name="email_text2">de código</string>
+    <string name="email_text3">y me gustaría que me contactaran a este correo
+    o al siguiente número __________\n\nQuedo atento.</string>
+
+</resources>
